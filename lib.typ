@@ -535,9 +535,9 @@
   
   pad[
     #grid(
-      columns: (20fr, 80fr),
+      columns: (30fr, 70fr),
       gutter: 10pt,
-      align(right)[
+      align(left)[
         #set text(hyphenate: false)
         == #category
       ],
